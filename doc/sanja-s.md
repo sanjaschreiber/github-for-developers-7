@@ -2,6 +2,6 @@
 - [ ] SanjaS
 - [ ] From Canada
 - [ ] I love to run
-- [ ] Favourinte color: blue
+- [ ] Favourite color: blue
 
 *Hello!*
